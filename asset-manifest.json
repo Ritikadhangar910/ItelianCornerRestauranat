@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ItelianCornerRestauranat/static/css/main.1cfcd86e.css",
+    "main.js": "/ItelianCornerRestauranat/static/js/main.f17fff77.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ItelianCornerRestauranat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/panner pizza.jpg": "/ItelianCornerRestauranat/static/media/panner pizza.714f68f5bd4eb30f3cf9.jpg",
+    "static/media/corn pizza.jpg": "/ItelianCornerRestauranat/static/media/corn pizza.bce5984d35add8549dcd.jpg",
+    "static/media/capsicum.jpg": "/ItelianCornerRestauranat/static/media/capsicum.0f19a8cd4bbbe192c90e.jpg",
+    "static/media/veg burger.jpg": "/ItelianCornerRestauranat/static/media/veg burger.613f34bcf7cc146cf038.jpg",
+    "static/media/pasta white souce.jpg": "/ItelianCornerRestauranat/static/media/pasta white souce.4969bb6fb29760a9b0f6.jpg",
+    "static/media/egg burger.jpg": "/ItelianCornerRestauranat/static/media/egg burger.23d60b1eb901859bb854.jpg",
+    "static/media/non-veg burger.jpg": "/ItelianCornerRestauranat/static/media/non-veg burger.50ef7de2132d756d2cd0.jpg",
+    "static/media/mixed souce pasta.jpg": "/ItelianCornerRestauranat/static/media/mixed souce pasta.dd6e98c03fcf5979df60.jpg",
+    "static/media/red souce pasta.jpg": "/ItelianCornerRestauranat/static/media/red souce pasta.c7073411943fd264bb3e.jpg",
+    "index.html": "/ItelianCornerRestauranat/index.html",
+    "main.1cfcd86e.css.map": "/ItelianCornerRestauranat/static/css/main.1cfcd86e.css.map",
+    "main.f17fff77.js.map": "/ItelianCornerRestauranat/static/js/main.f17fff77.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ItelianCornerRestauranat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cfcd86e.css",
+    "static/js/main.f17fff77.js"
+  ]
+}
